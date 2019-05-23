@@ -1,7 +1,7 @@
 {
   "name": "upgrade-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "A sample EventHandler project",
   "main": "run.test.js",
   "dependencies": {
     "jest": "^24.8.0"
@@ -10,6 +10,6 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "Alexey Zauzin <lehadnk@gmail.com>",
   "license": "ISC"
 }
